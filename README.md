@@ -1,4 +1,4 @@
-# Project Name
+# Aicerts-Todo
 
 This project consists of a React frontend using Vite and a Node.js backend with Express, both containerized using Docker and Docker Compose. The backend connects to a Redis instance.
 
