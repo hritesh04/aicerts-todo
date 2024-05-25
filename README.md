@@ -14,7 +14,7 @@ Make sure you have the following installed on your local machine:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/hritesh04/aicerts-todo.git
+   git clone git@github.com:hritesh04/aicerts-todo.git
    cd aicerts-todo
    ```
 
